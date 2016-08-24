@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="amber_separator_button_bottom">
+        <item name="android:layout_marginBottom">60dp</item>
+    </style>
+</resources>

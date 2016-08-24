@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="amber_activities_titles">
+        <item name="android:layout_marginBottom">@dimen/navigation_separator_vertical_padding</item>
+        <item name="android:layout_marginTop">@dimen/navigation_separator_vertical_padding</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
